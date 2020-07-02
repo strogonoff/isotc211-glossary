@@ -1,0 +1,37 @@
+id: 2f93a1
+author:
+  username: strogonoff
+  email: anton@strogonoff.name
+  name: Anton
+timeCreated: 2020-07-02T04:13:01.730Z
+revisions: {}
+meta:
+  registry:
+    stage: Draft
+  submitter:
+    primaryPerson:
+      name: Anton
+      email: anton@strogonoff.name
+      affiliation: ''
+_revisions:
+  current: 76e40b
+  tree:
+    76e40b:
+      object:
+        id: 2f93a1
+        author:
+          username: strogonoff
+          email: anton@strogonoff.name
+          name: Anton
+        timeCreated: 2020-07-02T04:13:01.730Z
+        revisions: {}
+        meta:
+          registry:
+            stage: Draft
+          submitter:
+            primaryPerson:
+              name: Anton
+              email: anton@strogonoff.name
+              affiliation: ''
+      parents: []
+      timeCreated: 2020-07-02T04:13:01.730Z
