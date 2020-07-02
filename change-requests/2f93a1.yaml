@@ -75,7 +75,7 @@ revisions:
       timeCreated: 2020-07-02T04:13:05.233Z
 meta:
   registry:
-    stage: Draft
+    stage: Proposal
   submitter:
     primaryPerson:
       name: Anton
@@ -103,3 +103,4 @@ _revisions:
               affiliation: ''
       parents: []
       timeCreated: 2020-07-02T04:13:01.730Z
+timeSubmitted: 2020-07-02T04:13:08.367Z
