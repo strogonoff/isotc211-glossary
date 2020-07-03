@@ -110,6 +110,31 @@ zho:
     - type: expression
       designation: 日
       normative_status: preferred
+  _revisions:
+    current: ee9901
+    tree:
+      ee9901:
+        object:
+          id: 127
+          definition: 相当于地球自转周期的持续时间的时段。
+          language_code: zho
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19108:2002'
+            link: 'https://www.iso.org/standard/26013.html'
+          date_accepted: 2002-08-31T16:00:00.000Z
+          terms:
+            - type: expression
+              designation: 日
+              normative_status: preferred
+        parents: []
+        timeCreated: 2002-08-31T16:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
 dan:
   id: 127
   definition: >-
@@ -261,6 +286,31 @@ deu:
     - type: expression
       designation: Tag
       normative_status: preferred
+  _revisions:
+    current: 894d94
+    tree:
+      894d94:
+        object:
+          id: 127
+          language_code: deu
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19108:2002'
+            link: 'https://www.iso.org/standard/26013.html'
+          date_accepted: 2002-08-31T16:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: Tag
+              normative_status: preferred
+        parents: []
+        timeCreated: 2002-08-31T16:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
 jpn:
   id: 127
   definition: 地球の自転周期にほぼ等しい持続時間をもつ期間。

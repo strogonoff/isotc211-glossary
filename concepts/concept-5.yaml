@@ -127,6 +127,36 @@ zho:
     - type: expression
       designation: 抽象测试模块
       normative_status: preferred
+  _revisions:
+    current: dd7dbc
+    tree:
+      dd7dbc:
+        object:
+          id: 5
+          definition: 相关抽象测试用例的集合。
+          language_code: zho
+          notes:
+            - 抽象测试模块可以层次镶嵌。
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19105:2000'
+            link: 'https://www.iso.org/standard/26010.html'
+          date_accepted: 2000-12-14T16:00:00.000Z
+          review_date: 2019-07-04T16:00:00.000Z
+          review_status: pending
+          review_type: retirement
+          release: '1'
+          terms:
+            - type: expression
+              designation: 抽象测试模块
+              normative_status: preferred
+        parents: []
+        timeCreated: 2000-12-14T16:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
 dan:
   id: 5
   definition: sæt af forbundne abstrakte testforløb
@@ -300,6 +330,35 @@ deu:
     - type: expression
       designation: abstraktes  Prüfmodul
       normative_status: preferred
+  _revisions:
+    current: b52e30
+    tree:
+      b52e30:
+        object:
+          id: 5
+          language_code: deu
+          notes:
+            - Abstract test modules may be nested in a hierarchical way.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19105:2000'
+            link: 'https://www.iso.org/standard/26010.html'
+          date_accepted: 2000-12-14T16:00:00.000Z
+          review_date: 2019-07-04T16:00:00.000Z
+          review_status: pending
+          review_type: retirement
+          release: '1'
+          terms:
+            - type: expression
+              designation: abstraktes  Prüfmodul
+              normative_status: preferred
+        parents: []
+        timeCreated: 2000-12-14T16:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
 jpn:
   id: 5
   definition: 関係する抽象試験項目の集合。

@@ -122,6 +122,35 @@ zho:
     - type: expression
       designation: 一致性评价过程
       normative_status: preferred
+  _revisions:
+    current: 6911af
+    tree:
+      6911af:
+        object:
+          id: 72
+          definition: 对某项国际标准实现的一致性评价过程。
+          language_code: zho
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19105:2000'
+            link: 'https://www.iso.org/standard/26010.html'
+          date_accepted: 2000-12-14T16:00:00.000Z
+          review_date: 2019-07-04T16:00:00.000Z
+          review_status: pending
+          review_type: retirement
+          release: '1'
+          terms:
+            - type: expression
+              designation: 一致性评价过程
+              normative_status: preferred
+        parents: []
+        timeCreated: 2000-12-14T16:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
 dan:
   id: 72
   definition: >-
@@ -298,6 +327,34 @@ deu:
     - type: expression
       designation: Konformitätsauswertungsprozess
       normative_status: preferred
+  _revisions:
+    current: 389bc8
+    tree:
+      389bc8:
+        object:
+          id: 72
+          language_code: deu
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19105:2000'
+            link: 'https://www.iso.org/standard/26010.html'
+          date_accepted: 2000-12-14T16:00:00.000Z
+          review_date: 2019-07-04T16:00:00.000Z
+          review_status: pending
+          review_type: retirement
+          release: '1'
+          terms:
+            - type: expression
+              designation: Konformitätsauswertungsprozess
+              normative_status: preferred
+        parents: []
+        timeCreated: 2000-12-14T16:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
 jpn:
   id: 72
   definition: ある規格への実装の適合性を評価する過程。

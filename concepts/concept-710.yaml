@@ -122,6 +122,35 @@ zho:
     - type: expression
       designation: 影像基准
       normative_status: preferred
+  _revisions:
+    current: 8f83b6
+    tree:
+      8f83b6:
+        object:
+          id: 710
+          definition: 定义了影像与坐标系关系的工程基准。
+          language_code: zho
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19111:2007'
+            link: 'https://www.iso.org/standard/41126.html'
+          date_accepted: 2007-06-30T16:00:00.000Z
+          review_date: 2017-06-27T16:00:00.000Z
+          review_status: pending
+          review_type: supersession
+          release: '1'
+          terms:
+            - type: expression
+              designation: 影像基准
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-06-30T16:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
 nld:
   id: 710
   definition: >-
@@ -144,6 +173,37 @@ nld:
     - type: expression
       designation: beelddatum
       normative_status: preferred
+  _revisions:
+    current: d0fd68
+    tree:
+      d0fd68:
+        object:
+          id: 710
+          definition: >-
+            lokaal datum welk de relatie definieert tussen een coördinaatsysteem
+            en een beeld
+          language_code: nld
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19111:2007'
+            link: 'https://www.iso.org/standard/41126.html'
+          date_accepted: 2007-06-30T16:00:00.000Z
+          review_date: 2017-06-27T16:00:00.000Z
+          review_status: pending
+          review_type: supersession
+          release: '1'
+          terms:
+            - type: expression
+              designation: beelddatum
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-06-30T16:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
 fin:
   id: 710
   definition: 'paikallinen datumi, joka määrittää koordinaatiston suhteen kuvaan'
@@ -266,6 +326,37 @@ deu:
     - type: expression
       designation: Bilddatum
       normative_status: preferred
+  _revisions:
+    current: c885c8
+    tree:
+      c885c8:
+        object:
+          id: 710
+          definition: >-
+            lokales Datum, das die Beziehung zu einem Bildkoordinatensystem
+            beschreibt
+          language_code: deu
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19111:2007'
+            link: 'https://www.iso.org/standard/41126.html'
+          date_accepted: 2007-06-30T16:00:00.000Z
+          review_date: 2017-06-27T16:00:00.000Z
+          review_status: pending
+          review_type: supersession
+          release: '1'
+          terms:
+            - type: expression
+              designation: Bilddatum
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-06-30T16:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
 kor:
   id: 710
   definition: 영상과 좌표 체계의 관계를 정의하는 공학 데이텀

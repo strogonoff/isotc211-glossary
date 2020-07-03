@@ -151,7 +151,6 @@ ara:
 zho:
   id: 504
   abbrev: l
-  synonyms: geodetic longitude
   definition: 首子午面与通过给定点的子午线面间的夹角，向东为正。
   language_code: zho
   notes: []
@@ -178,6 +177,48 @@ zho:
     - type: expression
       designation: 椭球经度
       normative_status: admitted
+    - designation: geodetic longitude
+      type: expression
+  _revisions:
+    current: ea016a
+    tree:
+      ea016a:
+        object:
+          id: 504
+          abbrev: l
+          definition: 首子午面与通过给定点的子午线面间的夹角，向东为正。
+          language_code: zho
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19111:2019'
+            clause: '(E), 3.1.33'
+            link: 'https://www.iso.org/standard/74039.html'
+          lineage_source: 'ISO 19111:2003'
+          lineage_source_similarity: 1
+          date_accepted: 2003-02-14T16:00:00.000Z
+          review_date: 2019-01-30T16:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-01-30T16:00:00.000Z
+          review_decision_event: 'Publication of ISO 19111:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19111:2007 to ISO
+            19111:2019(E), 3.1.33. Lineage source added as ISO 19111:2003
+          release: '1'
+          terms:
+            - type: expression
+              designation: 椭球经度
+              normative_status: admitted
+            - designation: geodetic longitude
+              type: expression
+        parents: []
+        timeCreated: 2003-02-14T16:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
 dan:
   id: 504
   definition: >-
@@ -248,7 +289,6 @@ dan:
 nld:
   id: 504
   abbrev: l
-  synonyms: geodetische lengte
   definition: >-
     hoek vanaf het vlak van de nulmeridiaan tot het meridiaan vlak van een
     gegeven punt, oostwaarts wordt als positief genomen
@@ -277,6 +317,50 @@ nld:
     - type: expression
       designation: ellipsoïde lengte
       normative_status: admitted
+    - designation: geodetische lengte
+      type: expression
+  _revisions:
+    current: 9e44d2
+    tree:
+      9e44d2:
+        object:
+          id: 504
+          abbrev: l
+          definition: >-
+            hoek vanaf het vlak van de nulmeridiaan tot het meridiaan vlak van
+            een gegeven punt, oostwaarts wordt als positief genomen
+          language_code: nld
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19111:2019'
+            clause: '(E), 3.1.33'
+            link: 'https://www.iso.org/standard/74039.html'
+          lineage_source: 'ISO 19111:2003'
+          lineage_source_similarity: 1
+          date_accepted: 2003-02-14T16:00:00.000Z
+          review_date: 2019-01-30T16:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-01-30T16:00:00.000Z
+          review_decision_event: 'Publication of ISO 19111:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19111:2007 to ISO
+            19111:2019(E), 3.1.33. Lineage source added as ISO 19111:2003
+          release: '1'
+          terms:
+            - type: expression
+              designation: ellipsoïde lengte
+              normative_status: admitted
+            - designation: geodetische lengte
+              type: expression
+        parents: []
+        timeCreated: 2003-02-14T16:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
 fin:
   id: 504
   abbrev: λ
@@ -428,7 +512,6 @@ fra:
 deu:
   id: 504
   abbrev: l
-  synonyms: geodetic longitude
   language_code: deu
   notes: []
   examples: []
@@ -454,6 +537,47 @@ deu:
     - type: expression
       designation: ellipsoidische Länge
       normative_status: admitted
+    - designation: geodetic longitude
+      type: expression
+  _revisions:
+    current: 3f39d8
+    tree:
+      3f39d8:
+        object:
+          id: 504
+          abbrev: l
+          language_code: deu
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19111:2019'
+            clause: '(E), 3.1.33'
+            link: 'https://www.iso.org/standard/74039.html'
+          lineage_source: 'ISO 19111:2003'
+          lineage_source_similarity: 1
+          date_accepted: 2003-02-14T16:00:00.000Z
+          review_date: 2019-01-30T16:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-01-30T16:00:00.000Z
+          review_decision_event: 'Publication of ISO 19111:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19111:2007 to ISO
+            19111:2019(E), 3.1.33. Lineage source added as ISO 19111:2003
+          release: '1'
+          terms:
+            - type: expression
+              designation: ellipsoidische Länge
+              normative_status: admitted
+            - designation: geodetic longitude
+              type: expression
+        parents: []
+        timeCreated: 2003-02-14T16:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
 kor:
   id: 504
   abbrev: l

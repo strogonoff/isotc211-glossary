@@ -223,6 +223,41 @@ deu:
     - type: expression
       designation: Abkürzung
       normative_status: preferred
+  _revisions:
+    current: 3e5e49
+    tree:
+      3e5e49:
+        object:
+          id: 2
+          language_code: deu
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 1087-1:2000'
+            clause: 3.4.9
+            link: 'https://www.iso.org/standard/20057.html'
+          lineage_source: 'ISO/TS 19104:2008'
+          lineage_source_similarity: 1
+          date_accepted: 2008-11-14T16:00:00.000Z
+          review_date: 2013-01-28T16:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2016-09-30T16:00:00.000Z
+          review_decision_event: 'Publication of ISO 19104:2016'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 1087-1:2000 to ISO
+            1087-1:2000, 3.4.9. Lineage source added as ISO/TS 19104:2008
+          release: '2'
+          terms:
+            - type: expression
+              designation: Abkürzung
+              normative_status: preferred
+        parents: []
+        timeCreated: 2008-11-14T16:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
 kor:
   id: 2
   definition: 축약하기 전의 용어와 동일한 개념을 나타내면서 글자 또는 단어를 생략한 용어

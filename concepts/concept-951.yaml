@@ -159,6 +159,44 @@ deu:
     - type: expression
       designation: Aufnahme <SAR>
       normative_status: preferred
+  _revisions:
+    current: 1f4223
+    tree:
+      1f4223:
+        object:
+          id: 951
+          definition: >-
+            Berechnung eines Radarbildes aus gemessenen Laufzeit- und
+            Phasendaten
+          language_code: deu
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19130-1:2018'
+            clause: '(E), 3.51'
+            link: 'https://www.iso.org/standard/66847.html'
+          lineage_source: 'ISO/TS 19130:2010(E)'
+          lineage_source_similarity: '1'
+          date_accepted: 2010-06-14T16:00:00.000Z
+          review_date: 2018-08-31T16:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2018-08-31T16:00:00.000Z
+          review_decision_event: 'Publication of ISO 19130-1:2018(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO/TS 19130:2010 to ISO
+            19130-1:2018(E), 3.51. Lineage source added as ISO/TS 19130:2010(E)
+          release: '2'
+          terms:
+            - type: expression
+              designation: Aufnahme <SAR>
+              normative_status: preferred
+        parents: []
+        timeCreated: 2010-06-14T16:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
 kor:
   id: 951
   definition: SAR 시스템으로부터 수집된 페이즈 히스토리 자료를 통해 생성된 이미지를 가공하는 과정

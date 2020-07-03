@@ -109,6 +109,32 @@ zho:
     - type: expression
       designation: 位置受限的服务
       normative_status: preferred
+  _revisions:
+    current: '398878'
+    tree:
+      '398878':
+        object:
+          id: 279
+          abbrev: LDS
+          definition: 有效性依赖于客户的位置的服务。
+          language_code: zho
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19133:2005'
+            link: 'https://www.iso.org/standard/32551.html'
+          date_accepted: 2005-10-14T16:00:00.000Z
+          terms:
+            - type: expression
+              designation: 位置受限的服务
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-10-14T16:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
 fin:
   id: 279
   definition: 'palvelu, jonka saatavuus riippuu asiakassovelluksen sijainnista'
@@ -210,6 +236,32 @@ deu:
     - type: expression
       designation: Location Dependent Service
       normative_status: preferred
+  _revisions:
+    current: '618256'
+    tree:
+      '618256':
+        object:
+          id: 279
+          abbrev: LDS
+          language_code: deu
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19133:2005'
+            link: 'https://www.iso.org/standard/32551.html'
+          date_accepted: 2005-10-14T16:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: Location Dependent Service
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-10-14T16:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
 kor:
   id: 279
   abbrev: LDS

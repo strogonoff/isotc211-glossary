@@ -115,6 +115,31 @@ zho:
     - type: expression
       designation: 数字项
       normative_status: preferred
+  _revisions:
+    current: 0ffad9
+    tree:
+      0ffad9:
+        object:
+          id: 661
+          definition: '结构化数字对象[资产,工作,服务,数据或信息]，它具有标准表达、标识和元数据框架。'
+          language_code: zho
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO/IEC TR 21000-1:2004'
+            link: 'https://www.iso.org/standard/40611.html'
+          date_accepted: 2005-10-16T16:00:00.000Z
+          terms:
+            - type: expression
+              designation: 数字项
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-10-16T16:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
 dan:
   id: 661
   definition: >-
@@ -271,6 +296,31 @@ deu:
     - type: expression
       designation: Digitales Element
       normative_status: preferred
+  _revisions:
+    current: c3a5ed
+    tree:
+      c3a5ed:
+        object:
+          id: 661
+          language_code: deu
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO/IEC TR 21000-1:2004'
+            link: 'https://www.iso.org/standard/40611.html'
+          date_accepted: 2005-10-16T16:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: Digitales Element
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-10-16T16:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
 kor:
   id: 661
   definition: '표준화된 표현, 식별, 메타데이터 프레임워크를 갖는 구조화된 디지털 객체[자산, 일, 서비스, 데이터 또는 정보]'

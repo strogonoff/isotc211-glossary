@@ -97,6 +97,30 @@ zho:
     - type: expression
       designation: 服务器
       normative_status: preferred
+  _revisions:
+    current: 6fc128
+    tree:
+      6fc128:
+        object:
+          id: 404
+          definition: 服务的特定实例。
+          language_code: zho
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19128:2005'
+            link: 'https://www.iso.org/standard/32546.html'
+          date_accepted: 2005-11-30T16:00:00.000Z
+          terms:
+            - type: expression
+              designation: 服务器
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-11-30T16:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
 fin:
   id: 404
   definition: palvelun tietty ilmentymä
@@ -197,6 +221,31 @@ deu:
     - type: expression
       designation: Server
       normative_status: preferred
+  _revisions:
+    current: 029ef9
+    tree:
+      029ef9:
+        object:
+          id: 404
+          definition: bestimmte Instanz eines Dienstes
+          language_code: deu
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19128:2005'
+            link: 'https://www.iso.org/standard/32546.html'
+          date_accepted: 2005-11-30T16:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: Server
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-11-30T16:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
 kor:
   id: 404
   definition: 서비스의 특정 인스턴스
