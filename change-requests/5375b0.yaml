@@ -1,0 +1,37 @@
+id: 5375b0
+author:
+  username: strogonoff
+  email: anton@strogonoff.name
+  name: Anton Strogonoff
+timeCreated: 2020-07-05T03:19:17.770Z
+revisions: {}
+meta:
+  registry:
+    stage: Draft
+  submitter:
+    primaryPerson:
+      name: Anton Strogonoff
+      email: anton@strogonoff.name
+      affiliation: ''
+_revisions:
+  current: 24f210
+  tree:
+    24f210:
+      object:
+        id: 5375b0
+        author:
+          username: strogonoff
+          email: anton@strogonoff.name
+          name: Anton Strogonoff
+        timeCreated: 2020-07-05T03:19:17.770Z
+        revisions: {}
+        meta:
+          registry:
+            stage: Draft
+          submitter:
+            primaryPerson:
+              name: Anton Strogonoff
+              email: anton@strogonoff.name
+              affiliation: ''
+      parents: []
+      timeCreated: 2020-07-05T03:19:17.770Z
