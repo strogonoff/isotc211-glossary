@@ -4,7 +4,66 @@ author:
   email: anton@strogonoff.name
   name: Anton Strogonoff
 timeCreated: 2020-07-05T03:19:17.770Z
-revisions: {}
+revisions:
+  concepts:
+    6-ara:
+      object:
+        id: 6
+        abbrev: م ا ت
+        definition: نموذج اختبار تجريدي يحدد جميع المتطلبات اللازم تحقيقها للتطابق
+        language_code: ara
+        notes:
+          - توصف مجموعات الاختبار التجريدي في فقرة للمطابقة
+        examples: []
+        entry_status: valid
+        review_indicator: ''
+        authoritative_source:
+          ref: 'ISO 19105:2000'
+          link: 'https://www.iso.org/standard/26010.html'
+        date_accepted: 2000-12-14T16:00:00.000Z
+        review_date: 2019-07-04T16:00:00.000Z
+        review_status: pending
+        review_type: retirement
+        release: '1'
+        terms:
+          - type: expression
+            designation: مجموعة اختبار تجريدي
+            normative_status: preferred
+        _revisions:
+          current: eea12a
+          tree:
+            eea12a:
+              object:
+                id: 6
+                abbrev: م ا ت
+                definition: نموذج اختبار تجريدي يحدد جميع المتطلبات اللازم تحقيقها للتطابق
+                language_code: ara
+                notes:
+                  - توصف مجموعات الاختبار التجريدي في فقرة للمطابقة
+                examples: []
+                entry_status: valid
+                review_indicator: ''
+                authoritative_source:
+                  ref: 'ISO 19105:2000'
+                  link: 'https://www.iso.org/standard/26010.html'
+                date_accepted: 2000-12-14T16:00:00.000Z
+                review_date: 2019-07-04T16:00:00.000Z
+                review_status: pending
+                review_type: retirement
+                release: '1'
+                terms:
+                  - type: expression
+                    designation: مجموعة اختبار تجريدي
+                    normative_status: preferred
+              parents: []
+              timeCreated: 2000-12-14T16:00:00.000Z
+              author:
+                name: Glossarist bot
+                email: glossarist@ribose.com
+        usageInfo: s
+      parents:
+        - eea12a
+      timeCreated: 2020-07-05T03:57:05.640Z
 meta:
   registry:
     stage: Draft
