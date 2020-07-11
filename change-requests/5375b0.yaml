@@ -60,10 +60,10 @@ revisions:
               author:
                 name: Glossarist bot
                 email: glossarist@ribose.com
-        usageInfo: s
+        usageInfo: test notes
       parents:
         - eea12a
-      timeCreated: 2020-07-05T03:57:05.640Z
+      timeCreated: 2020-07-11T18:49:21.037Z
 meta:
   registry:
     stage: Draft
