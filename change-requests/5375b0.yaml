@@ -28,7 +28,7 @@ revisions:
         terms:
           - type: expression
             designation: مجموعة اختبار تجريدي
-            normative_status: preferred
+            normative_status: admitted
         _revisions:
           current: eea12a
           tree:
@@ -60,10 +60,10 @@ revisions:
               author:
                 name: Glossarist bot
                 email: glossarist@ribose.com
-        usageInfo: test notes
+        usageInfo: ''
       parents:
         - eea12a
-      timeCreated: 2020-07-12T14:50:57.757Z
+      timeCreated: 2020-07-12T14:51:11.370Z
     6-eng:
       object:
         id: 6
