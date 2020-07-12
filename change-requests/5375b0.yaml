@@ -10,7 +10,7 @@ revisions:
       object:
         id: 6
         abbrev: م ا ت
-        definition: اختبار تجريدي يحدد جميع المتطلبات اللازم تحقيقها للتطابق
+        definition: asdاختبار تجريدي يحدد جميع المتطلبات اللازم تحقيقها للتطابق
         language_code: ara
         notes:
           - توصف مجموعات الاختبار التجريدي في فقرة للمطابقة
@@ -63,7 +63,7 @@ revisions:
         usageInfo: ''
       parents:
         - eea12a
-      timeCreated: 2020-07-12T15:01:50.334Z
+      timeCreated: 2020-07-12T15:02:00.703Z
     6-eng:
       object:
         id: 6
