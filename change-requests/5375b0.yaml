@@ -92,10 +92,10 @@ revisions:
           - type: expression
             designation: abstract test suite
             normative_status: admitted
-        usageInfo: test
+        usageInfo: ''
       parents:
         - 3768d0
-      timeCreated: 2020-07-12T14:44:42.024Z
+      timeCreated: 2020-07-12T15:47:15.753Z
 meta:
   registry:
     stage: Draft
