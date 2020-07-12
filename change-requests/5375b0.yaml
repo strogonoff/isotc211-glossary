@@ -64,6 +64,35 @@ revisions:
       parents:
         - eea12a
       timeCreated: 2020-07-12T14:44:09.652Z
+    6-eng:
+      object:
+        id: 6
+        abbrev: ATS
+        definition: >-
+          abstract test module specifying all the requirements to be satisfied
+          for
+        language_code: eng
+        notes:
+          - Abstract test suites are described in a conformance clause.
+        examples: []
+        entry_status: valid
+        review_indicator: ''
+        authoritative_source:
+          ref: 'ISO 19105:2000'
+          link: 'https://www.iso.org/standard/26010.html'
+        date_accepted: 2000-12-15T00:00:00.000Z
+        review_date: 2019-07-05T00:00:00.000Z
+        review_status: pending
+        review_type: retirement
+        release: '1'
+        terms:
+          - type: expression
+            designation: abstract test suite
+            normative_status: admitted
+        usageInfo: test
+      parents:
+        - 3768d0
+      timeCreated: 2020-07-12T14:44:42.024Z
 meta:
   registry:
     stage: Draft
