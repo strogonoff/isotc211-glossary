@@ -30,6 +30,8 @@ revisions:
           - type: expression
             designation: مجموعة اختبار تجريدي
             normative_status: admitted
+          - type: expression
+            designation: sad
         _revisions:
           current: eea12a
           tree:
@@ -64,7 +66,7 @@ revisions:
         usageInfo: ''
       parents:
         - eea12a
-      timeCreated: 2020-07-12T15:02:19.054Z
+      timeCreated: 2020-07-12T15:02:27.773Z
     6-eng:
       object:
         id: 6
