@@ -10,7 +10,7 @@ revisions:
       object:
         id: 6
         abbrev: م ا ت
-        definition: نموذج اختبار تجريدي يحدد جميع المتطلبات اللازم تحقيقها للتطابق
+        definition: اختبار تجريدي يحدد جميع المتطلبات اللازم تحقيقها للتطابق
         language_code: ara
         notes:
           - توصف مجموعات الاختبار التجريدي في فقرة للمطابقة
@@ -28,7 +28,7 @@ revisions:
         terms:
           - type: expression
             designation: مجموعة اختبار تجريدي
-            normative_status: preferred
+            normative_status: admitted
         _revisions:
           current: eea12a
           tree:
@@ -63,7 +63,7 @@ revisions:
         usageInfo: test notes
       parents:
         - eea12a
-      timeCreated: 2020-07-11T18:49:21.037Z
+      timeCreated: 2020-07-12T14:44:09.652Z
 meta:
   registry:
     stage: Draft
