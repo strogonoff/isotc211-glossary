@@ -60,10 +60,10 @@ revisions:
               author:
                 name: Glossarist bot
                 email: glossarist@ribose.com
-        usageInfo: ''
+        usageInfo: test
       parents:
         - eea12a
-      timeCreated: 2020-07-12T14:51:11.370Z
+      timeCreated: 2020-07-12T14:51:19.169Z
     6-eng:
       object:
         id: 6
