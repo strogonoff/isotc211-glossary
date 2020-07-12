@@ -28,7 +28,7 @@ revisions:
         terms:
           - type: expression
             designation: مجموعة اختبار تجريدي
-            normative_status: admitted
+            normative_status: preferred
         _revisions:
           current: eea12a
           tree:
@@ -63,7 +63,7 @@ revisions:
         usageInfo: test notes
       parents:
         - eea12a
-      timeCreated: 2020-07-12T14:44:09.652Z
+      timeCreated: 2020-07-12T14:50:57.757Z
     6-eng:
       object:
         id: 6
