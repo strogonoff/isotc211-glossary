@@ -4,7 +4,33 @@ author:
   name: Jack Testman
   email: vladimir.yablokov@gmail.com
 timeCreated: 2020-09-09T10:03:28.259Z
-revisions: {}
+revisions:
+  concepts:
+    '-1-eng':
+      object:
+        id: -1
+        language_code: eng
+        entry_status: valid
+        terms:
+          - designation: Testing
+            type: expression
+            geographicalArea: '1'
+            normative_status: preferred
+          - type: expression
+            designation: Test
+            normative_status: preferred
+        definition: Test definition
+        notes:
+          - This is test
+        examples:
+          - Testing test
+        authoritative_source:
+          ref: ISO 1337
+          clause: '1.1'
+          link: 'https://example.com/'
+        usageInfo: Testing
+      parents: []
+      timeCreated: 2020-09-09T10:03:29.801Z
 meta:
   registry:
     stage: Draft
@@ -24,7 +50,33 @@ _revisions:
           name: Jack Testman
           email: vladimir.yablokov@gmail.com
         timeCreated: 2020-09-09T10:03:28.259Z
-        revisions: {}
+        revisions:
+          concepts:
+            '-1-eng':
+              object:
+                id: -1
+                language_code: eng
+                entry_status: valid
+                terms:
+                  - designation: Testing
+                    type: expression
+                    geographicalArea: '1'
+                    normative_status: preferred
+                  - type: expression
+                    designation: Test
+                    normative_status: preferred
+                definition: Test definition
+                notes:
+                  - This is test
+                examples:
+                  - Testing test
+                authoritative_source:
+                  ref: ISO 1337
+                  clause: '1.1'
+                  link: 'https://example.com/'
+                usageInfo: Testing
+              parents: []
+              timeCreated: 2020-09-09T10:03:29.801Z
         meta:
           registry:
             stage: Draft
