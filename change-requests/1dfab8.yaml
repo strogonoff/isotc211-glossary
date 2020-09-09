@@ -1,0 +1,37 @@
+id: 1dfab8
+author:
+  username: yablokov
+  name: Jack Testman
+  email: vladimir.yablokov@gmail.com
+timeCreated: 2020-09-09T10:03:28.259Z
+revisions: {}
+meta:
+  registry:
+    stage: Draft
+  submitter:
+    primaryPerson:
+      name: Jack Testman
+      email: vladimir.yablokov@gmail.com
+      affiliation: ''
+_revisions:
+  current: 6824ec
+  tree:
+    6824ec:
+      object:
+        id: 1dfab8
+        author:
+          username: yablokov
+          name: Jack Testman
+          email: vladimir.yablokov@gmail.com
+        timeCreated: 2020-09-09T10:03:28.259Z
+        revisions: {}
+        meta:
+          registry:
+            stage: Draft
+          submitter:
+            primaryPerson:
+              name: Jack Testman
+              email: vladimir.yablokov@gmail.com
+              affiliation: ''
+      parents: []
+      timeCreated: 2020-09-09T10:03:28.259Z
