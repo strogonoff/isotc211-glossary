@@ -1,0 +1,56 @@
+termid: 14233
+eng:
+  id: 14233
+  language_code: eng
+  entry_status: valid
+  terms:
+    - designation: Testing
+      type: expression
+      geographicalArea: '1'
+      normative_status: preferred
+    - type: expression
+      designation: Test
+      normative_status: preferred
+  definition: Test definition
+  notes:
+    - This is test
+  examples:
+    - Testing test
+  authoritative_source:
+    ref: ISO 1337
+    clause: '1.1'
+    link: 'https://example.com/'
+  usageInfo: Testing
+  _revisions:
+    current: ac7fce
+    tree:
+      ac7fce:
+        object:
+          id: 14233
+          language_code: eng
+          entry_status: valid
+          terms:
+            - designation: Testing
+              type: expression
+              geographicalArea: '1'
+              normative_status: preferred
+            - type: expression
+              designation: Test
+              normative_status: preferred
+          definition: Test definition
+          notes:
+            - This is test
+          examples:
+            - Testing test
+          authoritative_source:
+            ref: ISO 1337
+            clause: '1.1'
+            link: 'https://example.com/'
+          usageInfo: Testing
+        parents: []
+        timeCreated: 2020-09-09T10:03:29.801Z
+        changeRequestID: 1dfab8
+        author:
+          username: strogonoff
+          email: anton@strogonoff.name
+          name: Anton Strogonoff
