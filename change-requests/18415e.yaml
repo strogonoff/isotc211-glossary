@@ -96,7 +96,7 @@ revisions:
       createdRevisionID: f67861
 meta:
   registry:
-    stage: Proposal
+    stage: Resolved
   submitter:
     primaryPerson:
       name: Batyr
@@ -141,3 +141,4 @@ _revisions:
       parents: []
       timeCreated: 2020-09-18T17:12:04.154Z
 timeSubmitted: 2020-09-18T17:13:06.258Z
+timeResolved: 2020-09-18T17:29:37.835Z
