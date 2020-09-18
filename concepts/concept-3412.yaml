@@ -1,0 +1,36 @@
+termid: 3412
+eng:
+  id: 3412
+  language_code: eng
+  entry_status: valid
+  terms:
+    - designation: Test
+      type: expression
+  definition: test
+  notes: []
+  examples: []
+  authoritative_source: {}
+  usageInfo: test
+  _revisions:
+    current: faca58
+    tree:
+      faca58:
+        object:
+          id: 3412
+          language_code: eng
+          entry_status: valid
+          terms:
+            - designation: Test
+              type: expression
+          definition: test
+          notes: []
+          examples: []
+          authoritative_source: {}
+          usageInfo: test
+        parents: []
+        timeCreated: 2020-09-18T17:12:05.703Z
+        changeRequestID: 18415e
+        author:
+          username: strogonoff
+          email: anton@strogonoff.name
+          name: Anton Strogonoff
