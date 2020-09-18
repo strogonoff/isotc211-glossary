@@ -4,7 +4,23 @@ author:
   name: Batyr
   email: kuroiakujin@gmail.com
 timeCreated: 2020-09-18T17:12:04.154Z
-revisions: {}
+revisions:
+  concepts:
+    '-1-eng':
+      object:
+        id: -1
+        language_code: eng
+        entry_status: valid
+        terms:
+          - designation: Test
+            type: expression
+        definition: test
+        notes: []
+        examples: []
+        authoritative_source: {}
+        usageInfo: test
+      parents: []
+      timeCreated: 2020-09-18T17:12:05.703Z
 meta:
   registry:
     stage: Draft
@@ -24,7 +40,23 @@ _revisions:
           name: Batyr
           email: kuroiakujin@gmail.com
         timeCreated: 2020-09-18T17:12:04.154Z
-        revisions: {}
+        revisions:
+          concepts:
+            '-1-eng':
+              object:
+                id: -1
+                language_code: eng
+                entry_status: valid
+                terms:
+                  - designation: Test
+                    type: expression
+                definition: test
+                notes: []
+                examples: []
+                authoritative_source: {}
+                usageInfo: test
+              parents: []
+              timeCreated: 2020-09-18T17:12:05.703Z
         meta:
           registry:
             stage: Draft
