@@ -347,7 +347,7 @@ rus:
       designation: Точка изображения
       normative_status: preferred
   _revisions:
-    current: 0a32c2
+    current: f67861
     tree:
       0a32c2:
         object:
@@ -384,6 +384,85 @@ rus:
         author:
           name: Glossarist bot
           email: glossarist@ribose.com
+      f67861:
+        object:
+          id: 232
+          definition: >-
+            точка на изображении, которая однозначно представляет объектную
+            точку
+          language_code: rus
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19130-1:2018'
+            clause: '(E), 3.54'
+            link: 'https://www.iso.org/standard/66847.html'
+          lineage_source: 'ISO/TS 19130:2010(E)'
+          lineage_source_similarity: '1'
+          date_accepted: 2010-06-15T00:00:00.000Z
+          review_date: 2018-09-01T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2018-09-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19130-1:2018(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO/TS 19130:2010 to ISO
+            19130-1:2018(E), 3.54. Lineage source added as ISO/TS 19130:2010(E)
+          release: '2'
+          terms:
+            - type: expression
+              designation: Точка изображения
+              normative_status: preferred
+          _revisions:
+            current: 0a32c2
+            tree:
+              0a32c2:
+                object:
+                  id: 232
+                  definition: >-
+                    точка на изображении, которая однозначно представляет
+                    объектную точку
+                  language_code: rus
+                  notes: []
+                  examples: []
+                  entry_status: valid
+                  authoritative_source:
+                    ref: 'ISO 19130-1:2018'
+                    clause: '(E), 3.54'
+                    link: 'https://www.iso.org/standard/66847.html'
+                  lineage_source: 'ISO/TS 19130:2010(E)'
+                  lineage_source_similarity: '1'
+                  date_accepted: 2010-06-15T00:00:00.000Z
+                  review_date: 2018-09-01T00:00:00.000Z
+                  review_status: final
+                  review_decision: accepted
+                  review_decision_date: 2018-09-01T00:00:00.000Z
+                  review_decision_event: 'Publication of ISO 19130-1:2018(E)'
+                  review_decision_notes: >-
+                    Authoritative reference changed from ISO/TS 19130:2010 to
+                    ISO 19130-1:2018(E), 3.54. Lineage source added as ISO/TS
+                    19130:2010(E)
+                  release: '2'
+                  terms:
+                    - type: expression
+                      designation: Точка изображения
+                      normative_status: preferred
+                parents: []
+                timeCreated: 2010-06-15T00:00:00.000Z
+                author:
+                  name: Glossarist bot
+                  email: glossarist@ribose.com
+          usageInfo: Test tochka
+        timeCreated: 2020-09-18T17:28:17.274Z
+        parents:
+          - 0a32c2
+        author:
+          username: strogonoff
+          name: Anton Strogonoff
+          email: anton@strogonoff.name
+        changeRequestID: 18415e
+  usageInfo: Test tochka
 spa:
   id: 232
   definition: punto en la imagen que representa únicamente a un punto objeto
