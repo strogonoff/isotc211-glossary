@@ -4,7 +4,23 @@ author:
   name: Batyr
   email: kuroiakujin@gmail.com
 timeCreated: 2020-09-19T10:50:52.196Z
-revisions: {}
+revisions:
+  concepts:
+    '-1-eng':
+      object:
+        id: -1
+        language_code: eng
+        entry_status: valid
+        terms:
+          - designation: test
+            type: expression
+        definition: just do it or don't
+        notes: []
+        examples: []
+        authoritative_source: {}
+        usageInfo: test of synching 4 try
+      parents: []
+      timeCreated: 2020-09-19T10:50:53.734Z
 meta:
   registry:
     stage: Draft
@@ -24,7 +40,23 @@ _revisions:
           name: Batyr
           email: kuroiakujin@gmail.com
         timeCreated: 2020-09-19T10:50:52.196Z
-        revisions: {}
+        revisions:
+          concepts:
+            '-1-eng':
+              object:
+                id: -1
+                language_code: eng
+                entry_status: valid
+                terms:
+                  - designation: test
+                    type: expression
+                definition: just do it or don't
+                notes: []
+                examples: []
+                authoritative_source: {}
+                usageInfo: test of synching 4 try
+              parents: []
+              timeCreated: 2020-09-19T10:50:53.734Z
         meta:
           registry:
             stage: Draft
