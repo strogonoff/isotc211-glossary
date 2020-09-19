@@ -4,7 +4,25 @@ author:
   name: Batyr
   email: kuroiakujin@gmail.com
 timeCreated: 2020-09-19T10:30:26.105Z
-revisions: {}
+revisions:
+  concepts:
+    '-1-eng':
+      object:
+        id: -1
+        language_code: eng
+        entry_status: valid
+        terms:
+          - designation: Test for 1.6.40
+            type: expression
+        definition: >-
+          Synching test on the Glossarist 1.6.40. This is from the installed
+          1.6.40 version above the 1.6.38. No password changing.
+        notes: []
+        examples: []
+        authoritative_source: {}
+        usageInfo: just test
+      parents: []
+      timeCreated: 2020-09-19T10:30:27.848Z
 meta:
   registry:
     stage: Draft
@@ -24,7 +42,26 @@ _revisions:
           name: Batyr
           email: kuroiakujin@gmail.com
         timeCreated: 2020-09-19T10:30:26.105Z
-        revisions: {}
+        revisions:
+          concepts:
+            '-1-eng':
+              object:
+                id: -1
+                language_code: eng
+                entry_status: valid
+                terms:
+                  - designation: Test for 1.6.40
+                    type: expression
+                definition: >-
+                  Synching test on the Glossarist 1.6.40. This is from the
+                  installed 1.6.40 version above the 1.6.38. No password
+                  changing.
+                notes: []
+                examples: []
+                authoritative_source: {}
+                usageInfo: just test
+              parents: []
+              timeCreated: 2020-09-19T10:30:27.848Z
         meta:
           registry:
             stage: Draft
