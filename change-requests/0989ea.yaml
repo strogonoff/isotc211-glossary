@@ -4,7 +4,25 @@ author:
   name: Batyr
   email: kuroiakujin@gmail.com
 timeCreated: 2020-09-19T10:46:39.564Z
-revisions: {}
+revisions:
+  concepts:
+    '-1-eng':
+      object:
+        id: -1
+        language_code: eng
+        entry_status: valid
+        terms:
+          - designation: Test of 1.6.40
+            type: expression
+        definition: >-
+          Deleted credentials from the Credential Manager and logged in with
+          valid github password.
+        notes: []
+        examples: []
+        authoritative_source: {}
+        usageInfo: Test of sycnhing 3 try
+      parents: []
+      timeCreated: 2020-09-19T10:46:41.124Z
 meta:
   registry:
     stage: Draft
@@ -24,7 +42,25 @@ _revisions:
           name: Batyr
           email: kuroiakujin@gmail.com
         timeCreated: 2020-09-19T10:46:39.564Z
-        revisions: {}
+        revisions:
+          concepts:
+            '-1-eng':
+              object:
+                id: -1
+                language_code: eng
+                entry_status: valid
+                terms:
+                  - designation: Test of 1.6.40
+                    type: expression
+                definition: >-
+                  Deleted credentials from the Credential Manager and logged in
+                  with valid github password.
+                notes: []
+                examples: []
+                authoritative_source: {}
+                usageInfo: Test of sycnhing 3 try
+              parents: []
+              timeCreated: 2020-09-19T10:46:41.124Z
         meta:
           registry:
             stage: Draft
