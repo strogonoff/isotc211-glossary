@@ -56,6 +56,23 @@ revisions:
       parents:
         - 42bab8
       timeCreated: 2020-09-19T10:31:27.005Z
+    '-2-eng':
+      object:
+        id: -2
+        language_code: eng
+        entry_status: valid
+        terms:
+          - designation: Test for 1.6.40
+            type: expression
+        definition: >-
+          Synching test on the Glossarist 1.6.40. This is from the installed
+          1.6.40 version above the 1.6.38. No password changing.
+        notes: []
+        examples: []
+        authoritative_source: {}
+        usageInfo: Test of synching 1 try
+      parents: []
+      timeCreated: 2020-09-19T10:32:18.392Z
 meta:
   registry:
     stage: Draft
