@@ -21,6 +21,54 @@ revisions:
         usageInfo: test of synching 4 try
       parents: []
       timeCreated: 2020-09-19T10:50:53.734Z
+    31-dan:
+      object:
+        id: 31
+        definition: >-
+          diskret tidsmæssigt referencesystem, der danner grundlag for at
+          definere tidsmæssig position med en nøjagtighed på 1 døgn
+        language_code: dan
+        notes: []
+        examples: []
+        authoritative_source:
+          ref: 'ISO 19108:2002'
+          link: 'https://www.iso.org/standard/26013.html'
+        date_accepted: 2002-09-01T00:00:00.000Z
+        release: '1'
+        terms:
+          - type: expression
+            designation: kalender
+            normative_status: null
+        _revisions:
+          current: 3d4edd
+          tree:
+            3d4edd:
+              object:
+                id: 31
+                definition: >-
+                  diskret tidsmæssigt referencesystem, der danner grundlag for
+                  at definere tidsmæssig position med en nøjagtighed på 1 døgn
+                language_code: dan
+                notes: []
+                examples: []
+                authoritative_source:
+                  ref: 'ISO 19108:2002'
+                  link: 'https://www.iso.org/standard/26013.html'
+                date_accepted: 2002-09-01T00:00:00.000Z
+                release: '1'
+                terms:
+                  - type: expression
+                    designation: kalender
+                    normative_status: null
+              parents: []
+              timeCreated: 2002-09-01T00:00:00.000Z
+              author:
+                name: Glossarist bot
+                email: glossarist@ribose.com
+        usageInfo: Test of synching 4 try
+      parents:
+        - 3d4edd
+      timeCreated: 2020-09-19T10:51:17.941Z
 meta:
   registry:
     stage: Draft
