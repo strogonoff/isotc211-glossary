@@ -1,0 +1,37 @@
+id: be8f97
+author:
+  username: batyr-tar
+  name: Batyr
+  email: kuroiakujin@gmail.com
+timeCreated: 2020-09-19T10:30:26.105Z
+revisions: {}
+meta:
+  registry:
+    stage: Draft
+  submitter:
+    primaryPerson:
+      name: Batyr
+      email: kuroiakujin@gmail.com
+      affiliation: ''
+_revisions:
+  current: b7e020
+  tree:
+    b7e020:
+      object:
+        id: be8f97
+        author:
+          username: batyr-tar
+          name: Batyr
+          email: kuroiakujin@gmail.com
+        timeCreated: 2020-09-19T10:30:26.105Z
+        revisions: {}
+        meta:
+          registry:
+            stage: Draft
+          submitter:
+            primaryPerson:
+              name: Batyr
+              email: kuroiakujin@gmail.com
+              affiliation: ''
+      parents: []
+      timeCreated: 2020-09-19T10:30:26.105Z
