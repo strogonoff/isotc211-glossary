@@ -71,7 +71,7 @@ revisions:
       timeCreated: 2020-09-19T10:51:17.941Z
 meta:
   registry:
-    stage: Draft
+    stage: Proposal
   submitter:
     primaryPerson:
       name: Batyr
@@ -115,3 +115,4 @@ _revisions:
               affiliation: ''
       parents: []
       timeCreated: 2020-09-19T10:50:52.196Z
+timeSubmitted: 2020-09-19T10:51:22.387Z
