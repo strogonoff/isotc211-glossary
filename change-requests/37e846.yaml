@@ -4,7 +4,24 @@ author:
   name: Batyr
   email: kuroiakujin@gmail.com
 timeCreated: 2020-09-19T10:37:32.947Z
-revisions: {}
+revisions:
+  concepts:
+    '-1-eng':
+      object:
+        id: -1
+        language_code: eng
+        entry_status: valid
+        terms:
+          - designation: Test gloss 1.6.40
+            type: expression
+        definition: |
+          Testing synch without token usage just github account password.
+        notes: []
+        examples: []
+        authoritative_source: {}
+        usageInfo: Test of synching 2 try
+      parents: []
+      timeCreated: 2020-09-19T10:37:34.612Z
 meta:
   registry:
     stage: Draft
@@ -24,7 +41,25 @@ _revisions:
           name: Batyr
           email: kuroiakujin@gmail.com
         timeCreated: 2020-09-19T10:37:32.947Z
-        revisions: {}
+        revisions:
+          concepts:
+            '-1-eng':
+              object:
+                id: -1
+                language_code: eng
+                entry_status: valid
+                terms:
+                  - designation: Test gloss 1.6.40
+                    type: expression
+                definition: >
+                  Testing synch without token usage just github account
+                  password.
+                notes: []
+                examples: []
+                authoritative_source: {}
+                usageInfo: Test of synching 2 try
+              parents: []
+              timeCreated: 2020-09-19T10:37:34.612Z
         meta:
           registry:
             stage: Draft
