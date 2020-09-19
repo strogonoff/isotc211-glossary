@@ -21,6 +21,73 @@ revisions:
         usageInfo: Test of synching 5 try (the one without an internet)
       parents: []
       timeCreated: 2020-09-19T10:54:44.622Z
+    7-fin:
+      object:
+        id: 7
+        definition: >-
+          prosessi, jossa määritetään, täyttääkö toteutus
+          hyväksyttävyyskriteerit ja jossa käyttäjälle annetaan mahdollisuus
+          päättää toteutuksen hyväksymisestä
+        language_code: fin
+        notes:
+          - >-
+            Hyväksymistestaukseen kuuluu monenlaisten käyttäjävaatimusten
+            täyttymistä mittaavien testien (esim. toiminnallisuus-, kuormitus-
+            ja suorituskykytestit) suunnittelua ja toteuttamista.
+          - Hyväksymistestaus ei kuulu vaatimuksenmukaisuuden testaukseen.
+        examples: []
+        entry_status: valid
+        review_indicator: ''
+        authoritative_source:
+          ref: 'ISO 19105:2000'
+          link: 'https://www.iso.org/standard/26010.html'
+        lineage_source: Internet (Kuopion yliopiston tietojenkäsittelytiede)
+        date_accepted: 2000-12-15T00:00:00.000Z
+        terms:
+          - type: expression
+            designation: hyväksymistestaus (käyttäjän)
+            normative_status: preferred
+        _revisions:
+          current: b494c4
+          tree:
+            b494c4:
+              object:
+                id: 7
+                definition: >-
+                  prosessi, jossa määritetään, täyttääkö toteutus
+                  hyväksyttävyyskriteerit ja jossa käyttäjälle annetaan
+                  mahdollisuus päättää toteutuksen hyväksymisestä
+                language_code: fin
+                notes:
+                  - >-
+                    Hyväksymistestaukseen kuuluu monenlaisten
+                    käyttäjävaatimusten täyttymistä mittaavien testien (esim.
+                    toiminnallisuus-, kuormitus- ja suorituskykytestit)
+                    suunnittelua ja toteuttamista.
+                  - >-
+                    Hyväksymistestaus ei kuulu vaatimuksenmukaisuuden
+                    testaukseen.
+                examples: []
+                entry_status: valid
+                review_indicator: ''
+                authoritative_source:
+                  ref: 'ISO 19105:2000'
+                  link: 'https://www.iso.org/standard/26010.html'
+                lineage_source: Internet (Kuopion yliopiston tietojenkäsittelytiede)
+                date_accepted: 2000-12-15T00:00:00.000Z
+                terms:
+                  - type: expression
+                    designation: hyväksymistestaus (käyttäjän)
+                    normative_status: preferred
+              parents: []
+              timeCreated: 2000-12-15T00:00:00.000Z
+              author:
+                name: Glossarist bot
+                email: glossarist@ribose.com
+        usageInfo: Test of synching 5 try
+      parents:
+        - b494c4
+      timeCreated: 2020-09-19T10:55:05.340Z
 meta:
   registry:
     stage: Draft
